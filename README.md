@@ -1,2 +1,3 @@
 # hi_everyone
-My first repository on GitHub
+This is my first repository on GitHub.
+I'm having fun learning about data science, across disciplines. 
